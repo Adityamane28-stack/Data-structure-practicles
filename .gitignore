@@ -1,0 +1,6 @@
+# Ignore VS Code tasks configuration
+tasks.json
+.vscode/tasks.json
+
+# Compiled binaries
+*.exe
